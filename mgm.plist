@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://iosapps.itunes.apple.com/apple-assets-us-std-000001/Purple115/v4/f4/3a/4b/f43a4b46-be10-f8f7-9fa3-cb68c293aebf/pre-thinned6776277266398333714.thinned.signed.beta.ipa?accessKey=1529147678_207080514735980370_mvUzuRRUmX6Bnv1h9E0wyMm5wLUdePxFdT7Y16wXioqDJjqHXtiEbKpetkhharxDIfFHXB3rzrxdPS3yFcFStUKzzaI55j5pzqwLAvnmWOj7LeQ7WOTqYQy3KFgOl8NbRKXUTDfdW5m7deHkxzGbRAgjPqoFtIiWa2pd1B0%2FhIrxoS0beakMw4Wa1QUssR8PQeQXCsst4iIh2XHsVx4XZQ%2F%2BTX%2F7kyTakW3VmoQZkwY%3D</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/buttCar/kjzb1/master/500wan512.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/buttCar/kjzb1/master/500wan57.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.mgm.photo</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>MGM-photo tool</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
