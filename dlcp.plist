@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dlaocp.dlcp</string>
+				<string>com.dalao.hoc</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
