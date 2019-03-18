@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wubaiwancp.ou</string>
+				<string>com.wubaiwan.hoc</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
