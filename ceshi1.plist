@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.testApp.ipa</string>
+				<string>com.dumadugames.Baccarat</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
