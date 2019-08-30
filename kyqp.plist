@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kyqp.kyqp_es</string>
+				<string>com.kyqp.kyqp-open</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
