@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nn500.adhoc</string>
+				<string>com.nn500cp.hoc</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
