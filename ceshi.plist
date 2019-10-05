@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/buttCar/kjzb1/master/ceshi512.png</string>
+					<string>https://raw.githubusercontent.com/buttCar/kjzb1/master/kyqp512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/buttCar/kjzb1/master/ceshi.png</string>
+					<string>https://raw.githubusercontent.com/buttCar/kjzb1/master/kyqp57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.testApp.ipa</string>
+				<string>com.kyqp.kyqp-open</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>客拉客</string>
+				<string>开元棋牌</string>
 			</dict>
 		</dict>
 	</array>
